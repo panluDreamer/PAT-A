@@ -1,1 +1,1 @@
-This repository contails many C++ codes of PAT advanced level.
+This repository contains many C++ codes of PAT advanced level.
